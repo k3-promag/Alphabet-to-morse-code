@@ -14,7 +14,7 @@ def translate(phrase):
         elif letter in "Ff":
             translation = translation + ".._./"
         elif letter in "Gg":
-            translation = translation + "_../"
+            translation = translation + "_ _./"
         elif letter in "Hh":
             translation = translation + "..../"
         elif letter in "Ii":
